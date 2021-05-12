@@ -8,3 +8,4 @@
 ||google-analytics.com^$script,important
 ||static.criteo.net^$script,important
 ||googletagservices.com^$script,important
+||sb.scorecardresearch.com^$script,important

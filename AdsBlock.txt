@@ -9,3 +9,4 @@
 ||static.criteo.net^$script,important
 ||googletagservices.com^$script,important
 ||sb.scorecardresearch.com^$script,important
+||pagead2.googlesyndication.com^$script,important

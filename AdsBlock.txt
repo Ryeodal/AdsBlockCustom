@@ -22,7 +22,6 @@ captcha.dantri.com.vn
 cdnasset.dantri.com.vn
 cdnweb.dantri.com.vn
 gadgets.dantri.com.vn
-icdn.dantri.com.vn
 logsbin.dantri.com.vn
 vcdn.dantri.com.vn
 webapi.dantri.com.vn
@@ -36,4 +35,3 @@ googletagmanager.com
 www.googletagmanager.com
 youtube.com
 www.youtube.com
-

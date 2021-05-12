@@ -15,3 +15,4 @@ googletagservices.com/gpt.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect-rule=googletagservices.com/gpt.js
 ||googletagservices.com^
 ||criteo.net^
+||cdn.24h.com.vn^$script,important

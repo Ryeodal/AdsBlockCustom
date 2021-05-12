@@ -5,3 +5,4 @@
 ! Expires: 3 days (update frequency)
 !
 ||cdn.24h.com.vn^$script,important
+||google-analytics.com^$script,important

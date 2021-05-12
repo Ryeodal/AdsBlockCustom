@@ -4,15 +4,4 @@
 ! Version: 12052021
 ! Expires: 3 days (update frequency)
 !
-google-analytics.com/analytics.js
-||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
-||google-analytics.com^
-scorecardresearch.com/beacon.js
-||scorecardresearch.com/beacon.js$script,redirect-rule=scorecardresearch.com/beacon.js
-||scorecardresearch.com^
-||googletagmanager.com^
-googletagservices.com/gpt.js
-||googletagservices.com/tag/js/gpt.js$script,redirect-rule=googletagservices.com/gpt.js
-||googletagservices.com^
-||criteo.net^
 ||cdn.24h.com.vn^$script,important

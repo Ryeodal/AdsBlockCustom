@@ -22,7 +22,7 @@
 ||pagead2.googlesyndication.com^$script,important
 ||www.googletagmanager.com^$script,important
 ||www.google-analytics.com^$script,important
-||adr.platform.zalo.me^
+||adr.platform.zalo.me^,important
 ||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
 ||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
 ||zalo.api.zaloapp.com^$third-party,app=com.zing.zalo,important

@@ -10,3 +10,6 @@
 ||googletagservices.com^$script,important
 ||sb.scorecardresearch.com^$script,important
 ||pagead2.googlesyndication.com^$script,important
+||cdnweb.dantri.com.vn^$font,important
+||googletagmanager.com^$script,important
+||securepubads.g.doubleclick.net^$script,important

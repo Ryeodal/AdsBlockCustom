@@ -18,3 +18,7 @@
 ||i-imgur-com.cdn.ampproject.org^$important
 ||sbbanner.com^$image,important
 ||i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/*$image,important
+||securepubads.g.doubleclick.net^$script,important
+||pagead2.googlesyndication.com^$script,important
+||www.googletagmanager.com^$script,important
+||www.google-analytics.com^$script,important

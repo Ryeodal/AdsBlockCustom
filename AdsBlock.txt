@@ -22,3 +22,4 @@
 ||pagead2.googlesyndication.com^$script,important
 ||www.googletagmanager.com^$script,important
 ||www.google-analytics.com^$script,important
+||adr.platform.zalo.me^

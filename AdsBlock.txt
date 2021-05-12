@@ -14,3 +14,5 @@
 ||googletagmanager.com^$script,important
 ||securepubads.g.doubleclick.net^$script,important
 ||qos-talk.123c.vn
+||imasdk.googleapis.com^$3p,important
+||i-imgur-com.cdn.ampproject.org^$important

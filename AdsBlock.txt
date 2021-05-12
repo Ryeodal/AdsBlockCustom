@@ -23,13 +23,6 @@
 ||www.googletagmanager.com^$script,important
 ||www.google-analytics.com^$script,important
 ||adr.platform.zalo.me^
-||vnn-imgs-a1.vgcloud.vn^$third-party,app=com.android.chrome,important
-||i.vietnamnet.vn^$third-party,app=com.android.chrome,important
-||clip.vietnamnetjsc.vn^$third-party,app=com.android.chrome,important
-||www.gstatic.com^$third-party,app=com.android.chrome,important
-||cdn.radiantmediatechs.com^$third-party,app=com.android.chrome,important
-||vnn-res.vgcloud.vn^$third-party,app=com.android.chrome,important
-||v-cdn.vietnamnetjsc.vn^$third-party,app=com.android.chrome,important
 ||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
 ||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
 ||zalo.api.zaloapp.com^$third-party,app=com.zing.zalo,important

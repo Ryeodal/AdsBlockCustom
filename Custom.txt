@@ -1,0 +1,22 @@
+﻿no-remote-fonts: www.google.com true--ogs.google.com3fonthttps://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+no-remote-fonts: www.google.com true--ogs.google.com3fonthttps://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+no-remote-fonts: www.google.com true--ogs.google.com3fonthttps://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+no-remote-fonts: www.google.com true--www.google.com1inline-fonthttps://ogs.google.com/u/0/widget/app?bc=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=1&hl=vi
+googletagservices_gpt.js<<dantri.com.vn3scripthttps://securepubads.g.doubleclick.net/tag/js/gpt.js
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect-rule=googletagservices_gpt.js--dantri.com.vn3scripthttps://securepubads.g.doubleclick.net/tag/js/gpt.js
+||doubleclick.net^--dantri.com.vn3scripthttps://securepubads.g.doubleclick.net/tag/js/gpt.js
+googlesyndication_adsbygoogle.js<<dantri.com.vn3scripthttps://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js--dantri.com.vn3scripthttps://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+||googlesyndication.com^--dantri.com.vn3scripthttps://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+no-remote-fonts: dantri.com.vn true--dantri.com.vn1inline-fonthttps://dantri.com.vn/
+no-remote-fonts: dantri.com.vn true--dantri.com.vn1fonthttps://cdnweb.dantri.com.vn/bundle/static/assets/SF-Pro-Display-SemiBold.ttf?_=d4c6939f
+no-remote-fonts: dantri.com.vn true--dantri.com.vn1fonthttps://cdnweb.dantri.com.vn/bundle/static/assets/SF-Pro-Display-SemiBold.woff?_=085051b0
+no-remote-fonts: dantri.com.vn true--dantri.com.vn1fonthttps://cdnweb.dantri.com.vn/bundle/static/assets/SF-Pro-Display-SemiBold.woff2?_=ca1ca40f
+googletagmanager.com/gtm.js<<dantri.com.vn3scripthttps://www.googletagmanager.com/gtm.js?id=GTM-PM6G9ZN
+||googletagmanager.com/gtm.js$script,redirect-rule=googletagmanager.com/gtm.js--dantri.com.vn3scripthttps://www.googletagmanager.com/gtm.js?id=GTM-PM6G9ZN
+||googletagmanager.com^--dantri.com.vn3scripthttps://www.googletagmanager.com/gtm.js?id=GTM-PM6G9ZN
+||logsbin.dantri.com.vn^--dantri.com.vn1xhrhttps://logsbin.dantri.com.vn/rec/dantri_com_vn
+no-remote-fonts: dantri.com.vn true--dantri.com.vn1inline-fonthttps://dantri.com.vn/
+https://dantri.com.vn/
+||adservice.google.com^--www.google.com1imagehttps://adservice.google.com/adsid/google/ui
+||adservice.google.com^--www.google.com1xhrhttps://adservice.google.com/tt/i

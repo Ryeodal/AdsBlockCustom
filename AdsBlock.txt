@@ -13,3 +13,4 @@
 ||cdnweb.dantri.com.vn^$font,important
 ||googletagmanager.com^$script,important
 ||securepubads.g.doubleclick.net^$script,important
+||qos-talk.123c.vn

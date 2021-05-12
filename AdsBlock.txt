@@ -16,3 +16,5 @@
 ||qos-talk.123c.vn
 ||imasdk.googleapis.com^$3p,important
 ||i-imgur-com.cdn.ampproject.org^$important
+||sbbanner.com^$image,important
+||i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/*$image,important

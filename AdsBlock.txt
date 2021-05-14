@@ -13,6 +13,8 @@
 ||fr.app.chat.global.xiaomi.net^
 ||amazonaws.com^
 ||mtalk.google.com^
+||fbcdn.net^
+||scontent.fsgn8-1.fna.fbcdn.net^
 
 !-----YOUTUBE-----
 ||youtube.com^
@@ -52,6 +54,8 @@
 
 !-----ZALO-----
 @@||s160-ava-talk.zadn.vn^
+@@||zpsocial-f46-w240.zadn.vn^
+
 
 !------------------Ten mien---------------
 

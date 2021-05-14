@@ -1,4 +1,4 @@
-! Title:BlockAds HoangKim
+! Title:BlockAds DNS HoangKim
 ! Description: Filter contains all ad networks and tracking frequently accessed.
 ! Last modified: 12 May 2021 09:09 UTC+7
 ! Version: 12052021
@@ -9,6 +9,6 @@
 ||graph.facebook.com ^
 ||youtube.com^
 ||yt3.ggpht.com
-||i.yting.com
+||i.ytimng.com
 !---------------Danh sach ngoai le---------------
 @@||gateway.facebook.com^$app=com.facebook.katana

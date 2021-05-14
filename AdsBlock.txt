@@ -4,26 +4,8 @@
 ! Version: 12052021
 ! Expires: 3 days (update frequency)
 !
-||cdn.24h.com.vn^$script,important
-||google-analytics.com^$script,important
-||static.criteo.net^$script,important
-||googletagservices.com^$script,important
-||sb.scorecardresearch.com^$script,important
-||pagead2.googlesyndication.com^$script,important
-||cdnweb.dantri.com.vn^$font,important
-||googletagmanager.com^$script,important
-||securepubads.g.doubleclick.net^$script,important
-||qos-talk.123c.vn
-||imasdk.googleapis.com^$3p,important
-||i-imgur-com.cdn.ampproject.org^$important
-||sbbanner.com^$image,important
-||i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/*$image,important
-||securepubads.g.doubleclick.net^$script,important
-||pagead2.googlesyndication.com^$script,important
-||www.googletagmanager.com^$script,important
-||www.google-analytics.com^$script,important
-||adr.platform.zalo.me^,important
-||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
-||clientservices.googleapis.com^$third-party,app=com.android.chrome,important
-||zalo.api.zaloapp.com^$third-party,app=com.zing.zalo,important
-||jp.zaloapp.com^$third-party,app=com.zing.zalo,important
+#---------------Danh sach chan------------
+||facebook.com^
+||youtube.com^
+!---------------Danh sach ngoai le---------------
+@@||gateway.facebook.com^$app=com.facebook.katana

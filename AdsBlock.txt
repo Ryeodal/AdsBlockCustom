@@ -26,3 +26,6 @@
 @@||b-graph.facebook.com^
 @@||graph.facebook.com^
 
+!------------------Ten mien---------------
+||120.138.74.216:443^
+

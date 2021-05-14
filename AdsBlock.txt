@@ -15,6 +15,7 @@
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
+||zdn.vn^
 ||zalo.me^
 ||zaloapp.com^ 
 ||adtima-media.zadn.vn^

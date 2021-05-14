@@ -40,7 +40,6 @@
 
 !-----GOOGLE-----
 ||www.google-analytics.com^
-||www.googletagservices.com^
 
 
 

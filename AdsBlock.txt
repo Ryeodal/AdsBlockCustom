@@ -5,6 +5,8 @@
 ! Expires: 3 days (update frequency)
 !
 !---------------Danh sach chan------------
+
+!-----FACEBOOK-----
 ||facebook.com^
 ||connect.facebook.net^$script,important
 ||play-fe.googleapis.com^
@@ -13,9 +15,13 @@
 ||fr.app.chat.global.xiaomi.net^
 ||amazonaws.com^
 ||mtalk.google.com^
+
+!-----YOUTUBE-----
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
+
+!-----ZALO-----
 ||zadn.vn^
 ||zdn.vn^
 ||zapps.vn^
@@ -24,23 +30,31 @@
 ||zalorasg.api.sociaplus.com^
 ||ads.platform.zalo.me^
 ||adszalo.com^
-||ads.zalo.me||
+||ads.zalo.me^
+||zaloapp.com^
 ||zaloads.me^
 ||ads.zaloapp.com^
 ||com.zing.zalo^
 ||jp.zaloapp.com^
 ||adtima-media.zadn.vn^
-||adtima-static.zadn.vn^$script,important
-||www.google-analytics.com^$script,important
-||www.googletagservices.com^$script,important
+||adtima-static.zadn.vn^
 ||log.adtimaserver.vn^
+
+!-----GOOGLE-----
+||www.google-analytics.com^
+||www.googletagservices.com^
+
 
 
 !---------------Danh sach ngoai le---------------
+
+!-----FACEBOOK-----
 @@||gateway.facebook.com^
 @@||b-graph.facebook.com^
 @@||graph.facebook.com^
 
 !------------------Ten mien---------------
+
+!-----ZALO-----
 ||120.138.74.216:443^$important
 

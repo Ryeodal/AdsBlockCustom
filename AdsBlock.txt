@@ -10,11 +10,12 @@
 ||play-lh.googleusercontent.com^
 ||alt6-mtalk.google.com^
 ||fr.app.chat.global.xiaomi.net^
-||fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com^
+||amazonaws.com^
 ||mtalk.google.com^
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
+||zadn.vn^
 ||zdn.vn^
 ||zalo.me^
 ||jp.zaloapp.com^ 

@@ -4,7 +4,7 @@
 ! Version: 12052021
 ! Expires: 3 days (update frequency)
 !
-#---------------Danh sach chan------------
+!---------------Danh sach chan------------
 ||facebook.com^||play-fe.googleapis.com^
 ||play-lh.googleusercontent.com^
 ||alt6-mtalk.google.com^

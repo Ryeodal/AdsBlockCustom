@@ -25,6 +25,7 @@
 ||adtima-static.zadn.vn^$script,important
 ||www.google-analytics.com^$script,important
 ||www.googletagservices.com^$script,important
+||log.adtimaserver.vn^
 
 
 !---------------Danh sach ngoai le---------------

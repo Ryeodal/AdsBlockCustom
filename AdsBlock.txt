@@ -17,7 +17,6 @@
 ||scontent.fvca1-1.fna.fbcdn.net^
 ||scontent-hkg4-1.xx.fbcdn.net^
 ||scontent-sin6-2.xx.fbcdn.net^
-||graph.facebook.com ^
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
@@ -25,3 +24,4 @@
 
 !---------------Danh sach ngoai le---------------
 @@||gateway.facebook.com^$app=com.facebook.katana
+

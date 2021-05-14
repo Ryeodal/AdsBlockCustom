@@ -12,11 +12,6 @@
 ||fr.app.chat.global.xiaomi.net^
 ||fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com^
 ||mtalk.google.com^
-||scontent-sin6-1.xx.fbcdn.net^
-||video.fvca1-1.fna.fbcdn.net^
-||scontent.fvca1-1.fna.fbcdn.net^
-||scontent-hkg4-1.xx.fbcdn.net^
-||scontent-sin6-2.xx.fbcdn.net^
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^

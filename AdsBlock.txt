@@ -6,6 +6,7 @@
 !
 !---------------Danh sach chan------------
 ||facebook.com^
+||connect.facebook.net^$script,important
 ||play-fe.googleapis.com^
 ||play-lh.googleusercontent.com^
 ||alt6-mtalk.google.com^
@@ -15,12 +16,15 @@
 ||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
-||zadn.vn^
-||zdn.vn^
-||zalo.me^
-||com.zing.zalo^
-||jp.zaloapp.com^ 
-||adtima-media.zadn.vn^
+||zadn.vn^,important
+||zdn.vn^,important
+||zalo.me^,important
+||com.zing.zalo^,important
+||jp.zaloapp.com^,important 
+||adtima-media.zadn.vn^,important
+||adtima-static.zadn.vn^$script,important
+||www.google-analytics.com^$script,important
+||www.googletagservices.com^$script,important
 
 
 !---------------Danh sach ngoai le---------------

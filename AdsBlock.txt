@@ -24,4 +24,5 @@
 
 !---------------Danh sach ngoai le---------------
 @@||gateway.facebook.com^
+@@||b-graph.facebook.com^
 

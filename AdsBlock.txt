@@ -23,5 +23,5 @@
 
 
 !---------------Danh sach ngoai le---------------
-@@||gateway.facebook.com^$app=com.facebook.katana
+@@||gateway.facebook.com^
 

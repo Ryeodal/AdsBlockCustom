@@ -17,7 +17,7 @@
 ||i.ytimg.com^
 ||zdn.vn^
 ||zalo.me^
-||zaloapp.com^ 
+||jp.zaloapp.com^ 
 ||adtima-media.zadn.vn^
 
 

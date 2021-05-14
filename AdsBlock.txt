@@ -6,6 +6,9 @@
 !
 #---------------Danh sach chan------------
 ||facebook.com^
+||graph.facebook.com ^
 ||youtube.com^
+||yt3.ggpht.com
+||i.yting.com
 !---------------Danh sach ngoai le---------------
 @@||gateway.facebook.com^$app=com.facebook.katana

@@ -1,9 +1,3 @@
-! Title:BlockAds DNS HoangKim
-! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 May 2021 09:09 UTC+7
-! Version: 12052021
-! Expires: 3 days (update frequency)
-!
 !---------------Danh sach chan------------
 
 !-----FACEBOOK-----

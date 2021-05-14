@@ -18,6 +18,7 @@
 ||zadn.vn^
 ||zdn.vn^
 ||zalo.me^
+||com.zing.zalo^
 ||jp.zaloapp.com^ 
 ||adtima-media.zadn.vn^
 

@@ -17,7 +17,7 @@
 ||i.ytimg.com^
 ||zalo.me^
 ||zaloapp.com^ 
-||zadn.vn^
+||adtima-media.zadn.vn^
 
 
 !---------------Danh sach ngoai le---------------

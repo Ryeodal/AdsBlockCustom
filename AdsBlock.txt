@@ -5,7 +5,8 @@
 ! Expires: 3 days (update frequency)
 !
 !---------------Danh sach chan------------
-||facebook.com^||play-fe.googleapis.com^
+||facebook.com^
+||play-fe.googleapis.com^
 ||play-lh.googleusercontent.com^
 ||alt6-mtalk.google.com^
 ||fr.app.chat.global.xiaomi.net^

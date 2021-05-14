@@ -24,6 +24,9 @@
 ||zalorasg.api.sociaplus.com^
 ||ads.platform.zalo.me^
 ||adszalo.com^
+||ads.zalo.me||
+||zaloads.me^
+||ads.zaloapp.com^
 ||com.zing.zalo^
 ||jp.zaloapp.com^
 ||adtima-media.zadn.vn^

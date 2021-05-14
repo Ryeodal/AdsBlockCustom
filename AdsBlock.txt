@@ -23,7 +23,7 @@
 ||zaloramy.api.sociaplus.com^
 ||zalorasg.api.sociaplus.com^
 ||ads.platform.zalo.me^
-||ads.zalo.me^
+||adszalo.com^
 ||com.zing.zalo^
 ||jp.zaloapp.com^
 ||adtima-media.zadn.vn^

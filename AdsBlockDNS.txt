@@ -1,5 +1,4 @@
 ! Title: BlockAds HoangKim
-! Expires: 4 days 
 !
 !---------------Danh sach chan------------
 

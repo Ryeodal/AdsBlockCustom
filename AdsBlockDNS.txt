@@ -54,5 +54,6 @@
 
 !------------------Web---------------
 ||log.baomoi.com^
+||api.baomoi.com^
 
 

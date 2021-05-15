@@ -85,6 +85,10 @@ amp.dantri.com.vn##.xds-200
 ||admicro.vn^$third-party
 ||amcdn.vn^$third-party
 
+!------EVA.vn------
+/prebid3.
+/eva-analytics.
+
 
 
 !-----OTHER-----

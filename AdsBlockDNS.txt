@@ -63,10 +63,6 @@
 !-----VIETNAMNET-----
 ||vietnamnetad.vn^$third-party
 ||vads.vn^
-
-!-----OTHER-----
-~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
-giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
 ictnews.vietnamnet.vn##.header-banner
 ictnews.vietnamnet.vn##.sidebar
 vietnamnet.vn##.VnnAdsPos
@@ -77,4 +73,9 @@ vietnamnet.vn##.VNNBackStep
 vietnamnet.vn##.VnnBtnBackToTop
 vietnamnet.vn##.stage1.pos-rel > .d-ib
 vietnamnet.vn##.Box-Premium-6.Home.Box-HotEvent.BlokCate
+
+!-----OTHER-----
+~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
+giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+
 

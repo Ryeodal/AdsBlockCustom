@@ -60,6 +60,9 @@
 ||api.baomoi.com^
 ||imasdk.googleapis.com^$third-party
 
+!-----VIETNAMNET-----
+||vnn-res.vgcloud.vn/ResV9/images/btn-nghetinnong.png$image
+
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 

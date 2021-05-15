@@ -72,8 +72,11 @@ vietnamnet.vn##.login-vnnid
 vietnamnet.vn##.VNNBackStep
 vietnamnet.vn##.VnnBtnBackToTop
 vietnamnet.vn##.stage1.pos-rel > .d-ib
+vietnamnet.vn##.articletype_1.pos-rel.thumb
+vietnamnet.vn##li.item:nth-of-type(1)
+vietnamnet.vn##.m-t-5.w6.widht-list-images
+vietnamnet.vn##.Box-HotEventBody.clearfix
 vietnamnet.vn##.Box-Premium-6.Home.Box-HotEvent.BlokCate
-vietnamnet.vn##.m-t-20.Home.BoxCorona.BoxCMCN40.Box-HotEvent.BlokCate
 
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]

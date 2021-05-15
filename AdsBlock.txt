@@ -11,7 +11,6 @@
 ||scontent.fsgn8-1.fna.fbcdn.net^
 
 !-----YOUTUBE-----
-||youtube.com^
 ||yt3.ggpht.com^
 ||i.ytimg.com^
 

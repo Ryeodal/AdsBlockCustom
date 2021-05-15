@@ -84,7 +84,7 @@ dantri.com.vn###xds-200
 ||admicro.vn^$third-party
 ||amcdn.vn^$third-party
 
-!------EVA.vn------
+!------EVA.VN------
 /prebid3.
 /eva-analytics.
 ||criteo.net^

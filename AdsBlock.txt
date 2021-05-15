@@ -44,6 +44,7 @@
 @@||gateway.facebook.com^
 @@||b-graph.facebook.com^
 @@||graph.facebook.com^
+@@||external.fsgn10-1.fna.fbcdn.net^
 
 !-----ZALO-----
 @@||s160-ava-talk.zadn.vn^

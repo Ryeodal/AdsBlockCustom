@@ -1,3 +1,9 @@
+[Adguard]
+! Version: 2021.05.15
+! Title: BlockAds HoangKim
+! Last modified: 16 May 2021 22:16 UTC+7
+! Expires: 3 days (update frequency)
+!
 !---------------Danh sach chan------------
 
 !-----FACEBOOK-----

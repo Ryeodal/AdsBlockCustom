@@ -46,7 +46,6 @@
 ||zjs.zadn.vn/zplayer/ads.js
 
 !-----GOOGLE-----
-://analytics.*/collect
 
 
 
@@ -98,7 +97,6 @@ dantri.com.vn###xds-200
 ||scorecardresearch.com^
 
 !-----VNEXPRESS-----
-||google.com^*/log?
 ||eclick.vn^$third-party
 ||polyad.net^$third-party
 $cookie=_ga

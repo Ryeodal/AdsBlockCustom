@@ -9,7 +9,6 @@
 ||fr.app.chat.global.xiaomi.net^
 ||amazonaws.com^
 ||mtalk.google.com^
-||fbcdn.net^
 ||scontent.fsgn8-1.fna.fbcdn.net^
 
 !-----YOUTUBE-----

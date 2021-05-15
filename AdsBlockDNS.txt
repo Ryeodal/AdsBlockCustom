@@ -88,10 +88,15 @@ amp.dantri.com.vn##.xds-200
 !------EVA.vn------
 /prebid3.
 /eva-analytics.
+||criteo.net^
+||imasdk.googleapis.com^$3p
+||facebook.com/tr/?
+||scorecardresearch.com^
 eva.vn##.pos-rel.justify-content-center.align-items-center.d-flex.hidden_bell_after_not_click.eva-bell-header-radiate-ring
 eva.vn##.ft-btm
 eva.vn##.clrF.ft-wrp > .txtCent
 eva.vn##.ft-seo
+
 
 
 

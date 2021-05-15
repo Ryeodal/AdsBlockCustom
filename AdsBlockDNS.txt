@@ -94,10 +94,7 @@ dantri.com.vn###xds-200
 
 !-----VNEXPRESS-----
 ||google.com^*/log?
-vnexpress.net##.wrap-contact
-vnexpress.net###to_top
-vnexpress.net##.width_common.flexbox.mb20.mt10.copyright-footer
-vnexpress.net##.width_common.copyright
+vnexpress.net##.evne
 
 
 

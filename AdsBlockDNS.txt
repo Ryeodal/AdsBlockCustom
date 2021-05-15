@@ -50,6 +50,7 @@
 ||googletagservices.com^$3p,important
 ||googletagmanager.com^$3p,important
 ||csi.gstatic.com^
+://analytics.*/collect
 
 
 
@@ -102,7 +103,11 @@ dantri.com.vn###xds-200
 
 !-----VNEXPRESS-----
 ||google.com^*/log?
+||eclick.vn^$third-party
+||polyad.net^$third-party
 vnexpress.net##.evne
+$cookie=_ga
+$cookie=/^_ga_/
 
 
 
@@ -111,6 +116,7 @@ vnexpress.net##.evne
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+
 
 
 

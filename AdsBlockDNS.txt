@@ -73,4 +73,7 @@ ictnews.vietnamnet.vn##.sidebar
 vietnamnet.vn##.VnnAdsPos
 vietnamnet.vn##.box-adv
 vietnamnet.vn##.fmsidWidgetNewsBox
+vietnamnet.vn##.login-vnnid
+vietnamnet.vn##.VNNBackStep
+vietnamnet.vn##.VnnBtnBackToTop
 

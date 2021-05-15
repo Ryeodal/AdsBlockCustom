@@ -16,8 +16,6 @@
 ||i.ytimg.com^
 
 !-----ZALO-----
-||zadn.vn^
-||zdn.vn^
 ||zapps.vn^
 ||zalo.me^
 ||zaloramy.api.sociaplus.com^

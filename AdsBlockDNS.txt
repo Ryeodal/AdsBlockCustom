@@ -49,6 +49,7 @@
 ||google-analytics.com^
 ||google-analytics.com^$3p,important
 ||googletagmanager.com^$3p,important
+://analytics.*/collect
 
 
 

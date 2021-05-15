@@ -61,7 +61,6 @@
 ||imasdk.googleapis.com^$third-party
 
 !-----VIETNAMNET-----
-||vnn-res.vgcloud.vn^$image,important
 ||vietnamnetad.vn^$third-party
 ||vads.vn^
 

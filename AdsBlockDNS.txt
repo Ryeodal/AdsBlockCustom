@@ -32,6 +32,7 @@
 ||adtima-static.zadn.vn^
 ||adtimaserver.vn^
 ||ztevents.zaloapp.com^
+||webqos.api.zaloapp.com^
 
 !-----GOOGLE-----
 ||www.google-analytics.com^

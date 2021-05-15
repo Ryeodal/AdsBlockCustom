@@ -64,8 +64,15 @@
 ||vnn-res.vgcloud.vn/ResV9/images/btn-nghetinnong.png$image
 ||vnn-res.vgcloud.vn/ResV9/images/back-step-vnn.svg$image
 ||vnn-res.vgcloud.vn/ResV9/images/back-top-vnn.svg$image
+||vietnamnetad.vn^$third-party
+||vads.vn^
 
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
-||vads.vn^
+giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+ictnews.vietnamnet.vn##.header-banner
+ictnews.vietnamnet.vn##.sidebar
+vietnamnet.vn##.VnnAdsPos
+vietnamnet.vn##.box-adv
+vietnamnet.vn##.fmsidWidgetNewsBox
 

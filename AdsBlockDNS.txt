@@ -61,9 +61,7 @@
 ||imasdk.googleapis.com^$third-party
 
 !-----VIETNAMNET-----
-||vnn-res.vgcloud.vn/ResV9/images/btn-nghetinnong.png$image
-||vnn-res.vgcloud.vn/ResV9/images/back-step-vnn.svg$image
-||vnn-res.vgcloud.vn/ResV9/images/back-top-vnn.svg$image
+||vnn-res.vgcloud.vn^$image
 ||vietnamnetad.vn^$third-party
 ||vads.vn^
 

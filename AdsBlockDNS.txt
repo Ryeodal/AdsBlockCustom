@@ -31,7 +31,7 @@
 ||jp.zaloapp.com^
 ||adtima-media.zadn.vn^
 ||adtima-static.zadn.vn^
-||log.adtimaserver.vn^
+||adtimaserver.vn^
 
 !-----GOOGLE-----
 ||www.google-analytics.com^

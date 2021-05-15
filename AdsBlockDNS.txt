@@ -47,7 +47,6 @@
 !-----GOOGLE-----
 ||google-analytics.com^
 ||google-analytics.com^$3p,important
-||googletagservices.com^$3p,important
 ||googletagmanager.com^$3p,important
 ||csi.gstatic.com^
 ://analytics.*/collect
@@ -105,7 +104,6 @@ dantri.com.vn###xds-200
 ||google.com^*/log?
 ||eclick.vn^$third-party
 ||polyad.net^$third-party
-vnexpress.net##.evne
 $cookie=_ga
 $cookie=/^_ga_/
 

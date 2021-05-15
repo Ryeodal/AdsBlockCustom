@@ -81,7 +81,6 @@ vietnamnet.vn##.stage1.pos-rel > .d-ib
 amp.dantri.com.vn##.xds-200
 
 !-----TUOITRE.VN-----
-/quangcao.
 ||admicro.vn^$third-party
 ||amcdn.vn^$third-party
 
@@ -99,5 +98,11 @@ amp.dantri.com.vn##.xds-200
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+/ads.
+/ads.zalo
+/ads.zaloapp
+/ad.
+/quangcao.
+
 
 

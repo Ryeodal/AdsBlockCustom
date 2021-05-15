@@ -10,6 +10,7 @@
 ||amazonaws.com^
 ||mtalk.google.com^
 ||scontent.fsgn8-1.fna.fbcdn.net^
+||facebook.net^$3p,important
 
 !-----YOUTUBE-----
 ||yt3.ggpht.com^
@@ -33,6 +34,7 @@
 ||adtimaserver.vn^
 ||ztevents.zaloapp.com^
 ||webqos.api.zaloapp.com^
+||zjs.zadn.vn/zplayer/ads.js
 
 !-----GOOGLE-----
 ||www.google-analytics.com^
@@ -55,5 +57,8 @@
 !------------------Web---------------
 ||log.baomoi.com^
 ||api.baomoi.com^
+/api.baomoi.com^
+||imasdk.googleapis.com^$third-party
+/track?*http$image
 
 

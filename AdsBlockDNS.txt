@@ -6,9 +6,10 @@
 .com/ad
 .com/ads
 /ads.
+/ad.
+/ad/zalo
 /ads.zalo
 /ads.zaloapp
-/ad.
 /quangcao.
 !-----FACEBOOK-----
 ||facebook.com^

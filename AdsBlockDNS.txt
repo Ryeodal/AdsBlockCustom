@@ -78,6 +78,7 @@ vietnamnet.vn##.stage1.pos-rel > .d-ib
 !-----DANTRI.COM.VN-----
 ||2mdn.net^
 ||cdn.ampproject.org/*/amp-analytics-
+dantri.com.vn##.xds-200
 
 !-----TUOITRE.VN-----
 ||admicro.vn^$third-party

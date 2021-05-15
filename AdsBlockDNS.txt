@@ -75,4 +75,5 @@ vietnamnet.vn##.fmsidWidgetNewsBox
 vietnamnet.vn##.login-vnnid
 vietnamnet.vn##.VNNBackStep
 vietnamnet.vn##.VnnBtnBackToTop
+vietnamnet.vn##.stage1.pos-rel > .d-ib
 

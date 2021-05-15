@@ -84,6 +84,8 @@ amp.dantri.com.vn##.xds-200
 /quangcao.
 ||admicro.vn^$third-party
 ||amcdn.vn^$third-party
+tuoitre.vn##.icoswitch.iconthunghiemon
+tuoitre.vn##.item-normal.news-big.news-item
 
 
 !-----OTHER-----

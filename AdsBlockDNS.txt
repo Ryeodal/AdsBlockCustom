@@ -85,12 +85,6 @@ amp.dantri.com.vn##.xds-200
 ||admicro.vn^$third-party
 ||amcdn.vn^$third-party
 
-tuoitre.vn##.item-normal.news-big.news-item > .description-add-ipad > .title-name > [href="/cap-nhat-so-lieu-tinh-hinh-dich-covid-19-tai-viet-nam-20210510170100892.htm"]
-tuoitre.vn##.item-normal.news-big.news-item > .description-add-ipad > .sapo
-tuoitre.vn##.item-normal.news-big.news-item > .description-add-ipad > .icon-magazine
-||cdn.tuoitre.vn/zoom/469_293/2021/5/10/1610-1620640761020308471016-crop-1620640767636948927448.jpg$image
-tuoitre.vn##.item-normal.news-big.news-item
-
 
 
 !-----OTHER-----

@@ -21,7 +21,7 @@
 ||zalo.me^
 ||zaloramy.api.sociaplus.com^
 ||zalorasg.api.sociaplus.com^
-||ads.platform.zalo.me^
+||adr.platform.zalo.me^
 ||adszalo.com^
 ||ads.zalo.me^
 ||zaloapp.com^

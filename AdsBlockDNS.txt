@@ -37,7 +37,9 @@
 ||zjs.zadn.vn/zplayer/ads.js
 
 !-----GOOGLE-----
-||www.google-analytics.com^
+||google-analytics.com^
+||google-analytics.com^$3p,important
+||googletagservices.com^$3p,important
 
 
 
@@ -53,12 +55,11 @@
 @@||s160-ava-talk.zadn.vn^
 @@||zpsocial-f46-w240.zadn.vn^
 
-
-!------------------Web---------------
+!-----BAOMOI-----
 ||log.baomoi.com^
 ||api.baomoi.com^
-/api.baomoi.com^
 ||imasdk.googleapis.com^$third-party
-/track?*http$image
 
+!-----OTHER-----
+~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 

@@ -32,8 +32,6 @@
 ||adr.platform.zalo.me^
 ||adszalo.com^
 ||ads.zalo.me^
-||zaloapp.com^
-||zaloads.me^
 ||ads.zaloapp.com^
 ||com.zing.zalo^
 ||jp.zaloapp.com^

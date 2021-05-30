@@ -41,6 +41,7 @@
 ||ztevents.zaloapp.com^
 ||webqos.api.zaloapp.com^
 ||zjs.zadn.vn/zplayer/ads.js
+||news.zing.vn^$app=com.zing.zalo
 
 !-----GOOGLE-----
 

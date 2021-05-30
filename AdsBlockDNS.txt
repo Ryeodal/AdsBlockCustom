@@ -22,8 +22,7 @@
 ||facebook.net^$3p,important
 
 !-----YOUTUBE-----
-||yt3.ggpht.com^
-||i.ytimg.com^
+
 
 !-----ZALO-----
 ||zapps.vn^

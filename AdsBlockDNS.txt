@@ -1,6 +1,7 @@
 ! Title: BlockAds HoangKim
 !
 !---------------Danh sach chan------------
+/ads
 .vn/ad
 .vn/ads
 .com/ad

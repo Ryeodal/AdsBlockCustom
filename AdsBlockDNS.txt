@@ -108,6 +108,7 @@ $cookie=/^_ga_/
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+@@||s3-app-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
 
 
 

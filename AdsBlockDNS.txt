@@ -77,6 +77,8 @@ vietnamnet.vn##.login-vnnid
 vietnamnet.vn##.VNNBackStep
 vietnamnet.vn##.VnnBtnBackToTop
 vietnamnet.vn##.stage1.pos-rel > .d-ib
+@@||img.vietnamnetad.vn^
+@@||www.googletagmanager.com/gtag/js?id=UA-100237675-1
 
 !-----DANTRI.COM.VN-----
 ||2mdn.net^

@@ -64,6 +64,10 @@
 ||log.baomoi.com^
 ||api.baomoi.com^
 ||imasdk.googleapis.com^$third-party
+@@||photo-baomoi.zadn.vn^
+@@||baomoi-static.zadn.vn^
+@@||baomoi-static.zadn.vn/favicons/android-chrome-192x192.png
+@@||baomoi-static.zadn.vn/mobile/styles/img/logo-baomoi-gray.png$domain=m.baomoi.com
 
 !-----VIETNAMNET-----
 ||vietnamnetad.vn^$third-party

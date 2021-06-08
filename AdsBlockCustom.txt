@@ -66,7 +66,6 @@
 ||imasdk.googleapis.com^$third-party
 @@||photo-baomoi.zadn.vn^
 @@||baomoi-static.zadn.vn^
-@@||baomoi-static.zadn.vn/favicons/android-chrome-192x192.png
 @@||baomoi-static.zadn.vn/mobile/styles/img/logo-baomoi-gray.png$domain=m.baomoi.com
 
 !-----VIETNAMNET-----
@@ -114,7 +113,10 @@ $cookie=/^_ga_/
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
+
+!-----MOMO-----
 @@||s3-app-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
+
 
 
 

@@ -99,6 +99,12 @@ dantri.com.vn###xds-200
 ||imasdk.googleapis.com^$3p
 ||facebook.com/tr/?
 ||scorecardresearch.com^
+||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
+||scorecardresearch.com/beacon.js$script,redirect-rule=scorecardresearch.com/beacon.js
+||google-analytics.com^
+||scorecardresearch.com^
+||googletagmanager.com^
+||imasdk.googleapis.com^$3p
 
 !-----VNEXPRESS-----
 ||eclick.vn^$third-party

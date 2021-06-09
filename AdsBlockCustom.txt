@@ -95,6 +95,7 @@ dantri.com.vn###xds-200
 !------EVA.VN------
 /prebid3.
 /eva-analytics.
+eva.vn##.mrL10.colRt
 ||criteo.net^
 ||imasdk.googleapis.com^$3p
 ||facebook.com/tr/?
@@ -105,6 +106,8 @@ dantri.com.vn###xds-200
 ||scorecardresearch.com^
 ||googletagmanager.com^
 ||imasdk.googleapis.com^$3p
+||doubleclick.net^
+
 
 !-----VNEXPRESS-----
 ||eclick.vn^$third-party

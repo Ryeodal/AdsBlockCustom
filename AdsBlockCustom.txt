@@ -95,10 +95,18 @@ dantri.com.vn###xds-200
 !------EVA.VN------
 /prebid3.
 /eva-analytics.
+eva.vn##[id^="ADS"]
+eva.vn##.pos-rel.justify-content-center.align-items-center.d-flex.hidden_bell_after_not_click.eva-bell-header-radiate-ring
+eva.vn##.ft-seo
+eva.vn##.ft-btm
 eva.vn##.mrL10.colRt
+eva.vn###subRight
+eva.vn##.clrF.ft-wrp > .txtCent
+##.ads_unit
+##[id^="div-gpt-ad"]
+*##+js(no-floc)
 ||criteo.net^
 ||imasdk.googleapis.com^$3p
-||facebook.com/tr/?
 ||scorecardresearch.com^
 ||google-analytics.com/analytics.js$script,redirect-rule=google-analytics.com/analytics.js
 ||scorecardresearch.com/beacon.js$script,redirect-rule=scorecardresearch.com/beacon.js
@@ -107,6 +115,10 @@ eva.vn##.mrL10.colRt
 ||googletagmanager.com^
 ||imasdk.googleapis.com^$3p
 ||doubleclick.net^
+||facebook.com/common/cavalry_endpoint.php?
+||facebook.com/tr/
+||facebook.com/tr/?
+
 
 
 !-----VNEXPRESS-----

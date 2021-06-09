@@ -12,6 +12,8 @@
 /ads.zalo
 /ads.zaloapp
 /quangcao.
+/*banner
+/banner
 !-----FACEBOOK-----
 ||facebook.com^
 ||connect.facebook.net^
@@ -45,6 +47,9 @@
 ||news.zing.vn^$app=com.zing.zalo
 
 !-----GOOGLE-----
+||google-analytics.com^$3p,important
+||googletagmanager.com^$3p,important
+||fonts.googleapis.com^$3p
 
 
 
@@ -84,8 +89,12 @@ vietnamnet.vn##.stage1.pos-rel > .d-ib
 @@||www.googletagmanager.com/gtag/js?id=UA-100237675-1
 
 !-----DANTRI.COM.VN-----
+||logsbin.dantri.com.vn^
+||admicro.vn^$third-party
 ||2mdn.net^
 ||cdn.ampproject.org/*/amp-analytics-
+||icdn.dantri.com.vn/*banner
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 dantri.com.vn###xds-200
 
 !-----TUOITRE.VN-----
@@ -119,13 +128,14 @@ eva.vn##.clrF.ft-wrp > .txtCent
 ||facebook.com/tr/
 ||facebook.com/tr/?
 
-
-
 !-----VNEXPRESS-----
 ||eclick.vn^$third-party
 ||polyad.net^$third-party
 $cookie=_ga
 $cookie=/^_ga_/
+
+!-----MOMO-----
+@@||s3-app-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
 
 
 
@@ -134,9 +144,6 @@ $cookie=/^_ga_/
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
-
-!-----MOMO-----
-@@||s3-app-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
 
 
 

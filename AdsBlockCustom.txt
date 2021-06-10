@@ -21,7 +21,6 @@
 ||fr.app.chat.global.xiaomi.net^
 ||amazonaws.com^
 ||mtalk.google.com^
-||scontent.fsgn8-1.fna.fbcdn.net^
 ||facebook.net^$3p,important
 
 !-----YOUTUBE-----
@@ -56,9 +55,11 @@
 !---------------Danh sach ngoai le---------------
 
 !-----FACEBOOK-----
+@@||lookaside.facebook.com^
 @@||gateway.facebook.com^
 @@||b-graph.facebook.com^
 @@||graph.facebook.com^
+@@||scontent.fsgn8-1.fna.fbcdn.net^
 @@||external.fsgn10-1.fna.fbcdn.net^
 
 !-----ZALO-----

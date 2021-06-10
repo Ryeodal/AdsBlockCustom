@@ -138,6 +138,11 @@ $cookie=/^_ga_/
 @@||s3-ap-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
 
 
+!-----GAME CHẶT HEO-----
+@@||config.uca.cloud.unity3d.com^$app=com.pitaya.chatheo
+@@||s3-ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
+@@||qv7yx8mws9.execute-api.ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
+@@||7x05y70kxh.execute-api.ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
 
 
 

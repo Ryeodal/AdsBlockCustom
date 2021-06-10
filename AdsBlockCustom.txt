@@ -135,7 +135,7 @@ $cookie=_ga
 $cookie=/^_ga_/
 
 !-----MOMO-----
-@@||s3-app-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
+@@||s3-ap-southeast-1.amazonaws.com^$app=com.mservice.momotransfer
 
 
 

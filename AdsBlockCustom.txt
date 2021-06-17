@@ -24,8 +24,9 @@
 ||facebook.net^$3p,important
 
 !-----YOUTUBE-----
-
-
+||youtube.com/youtubei/v1/log_event^$xhr
+||youtube.com/api/stats/atr
+||youtube.com/api/stats/qoe?
 !-----ZALO-----
 ||zapps.vn^
 ||zalo.me^
@@ -46,7 +47,6 @@
 ||news.zing.vn^$app=com.zing.zalo
 
 !-----GOOGLE-----
-@@||www.google.com/gen_204?
 ||google-analytics.com^$3p,important
 ||googletagmanager.com^$3p,important
 ||fonts.googleapis.com^$3p,improtant
@@ -157,7 +157,10 @@ $cookie=/^_ga_/
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
-
+/gen_204?$image,other,ping,script
+/generate_204$image,other,ping,script
+/client_204?$image,other,ping,script
+/quick-adsense-reloaded/*
 
 
 

@@ -46,15 +46,20 @@
 ||news.zing.vn^$app=com.zing.zalo
 
 !-----GOOGLE-----
+@@||www.google.com/gen_204?
 ||google-analytics.com^$3p,important
 ||googletagmanager.com^$3p,important
-||fonts.googleapis.com^$3p
+||fonts.googleapis.com^$3p,improtant
+||fonts.gstatic.com^$3p,improtant
+||adservice.google.com^
+
 
 
 
 !---------------Danh sach ngoai le---------------
 
 !-----FACEBOOK-----
+@@||m.facebook.com^$domain=m.facebook.com
 @@||lookaside.facebook.com^
 @@||gateway.facebook.com^
 @@||b-graph.facebook.com^
@@ -70,6 +75,7 @@
 ||log.baomoi.com^
 ||api.baomoi.com^
 ||imasdk.googleapis.com^$third-party
+||beta-m.baomoi.com^$domain=beta-m.baomoi.com
 @@||photo-baomoi.zadn.vn^
 @@||baomoi-static.zadn.vn^
 @@||baomoi-static.zadn.vn/mobile/styles/img/logo-baomoi-gray.png$domain=m.baomoi.com

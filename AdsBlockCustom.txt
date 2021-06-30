@@ -48,8 +48,8 @@
 !-----GOOGLE-----
 ||google-analytics.com^$3p,important
 ||googletagmanager.com^$3p,important
-||fonts.googleapis.com^$3p,improtant
-||fonts.gstatic.com^$3p,improtant
+||fonts.googleapis.com^$3p,important
+||fonts.gstatic.com^$3p,important
 ||fonts.google.com^
 ||adservice.google.com^
 

@@ -28,7 +28,6 @@
 ||youtube.com/api/stats/qoe?
 !-----ZALO-----
 ||zapps.vn^
-||zalo.me^
 ||zaloramy.api.sociaplus.com^
 ||zalorasg.api.sociaplus.com^
 ||adr.platform.zalo.me^
@@ -50,8 +49,8 @@
 ||googletagmanager.com^$3p,important
 ||fonts.googleapis.com^$3p,important
 ||fonts.gstatic.com^$3p,important
-||fonts.google.com^
-||adservice.google.com^
+||fonts.google.com^$3p,important
+||adservice.google.com^$3p,important
 
 
 
@@ -140,14 +139,6 @@ eva.vn##.clrF.ft-wrp > .txtCent
 ||polyad.net^$third-party
 $cookie=_ga
 $cookie=/^_ga_/
-
-
-!-----GAME CHẶT HEO-----
-@@||config.uca.cloud.unity3d.com^$app=com.pitaya.chatheo
-@@||s3-ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
-@@||qv7yx8mws9.execute-api.ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
-@@||7x05y70kxh.execute-api.ap-southeast-1.amazonaws.com^$app=com.pitaya.chatheo
-
 
 
 !-----OTHER-----

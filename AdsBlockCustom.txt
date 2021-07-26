@@ -101,6 +101,14 @@ vietnamnet.vn##.stage1.pos-rel > .d-ib
 ||icdn.dantri.com.vn/*banner
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 dantri.com.vn###xds-200
+||cdnasset.dantri.com.vn/fe/asset-dtms.html
+||cdnasset.dantri.com.vn^
+||logsbin.dantri.com.vn^
+||tracking.dantri.com.vn^
+dantri.com.vn##.admicro
+dantri.com.vn##.col--highlight-ads
+dantri.com.vn##secion.ng-isolate-scope
+dantri.com.vn##ul.dt-list.dt-list--normal > li:first-child
 
 !-----TUOITRE.VN-----
 ||admicro.vn^$third-party

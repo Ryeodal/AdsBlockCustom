@@ -139,6 +139,14 @@ eva.vn##.clrF.ft-wrp > .txtCent
 $cookie=_ga
 $cookie=/^_ga_/
 
+!-----Tivi 101------
+||i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/xylyybt.png$image
+tva.101vn.com##.full_banner22
+tva.101vn.com##.right_pane > .med_rec_banner1
+tva.101vn.com##.footer
+tva.101vn.com##.hot_news
+||tva.101vn.com/images/om_PKto_D.jpg$image
+
 
 !-----OTHER-----
 ~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]

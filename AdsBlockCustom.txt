@@ -85,6 +85,9 @@
 24h.com.vn##.fixed-top
 24h.com.vn##.fixed-top2
 24h.com.vn##.ttdnTr
+24h.com.vn##[id^="ADS"
+24h.com.vn##[id^="div-gpt-ad"
+*##+js(no-floc)
 24h.com.vn##DIV[class="aCenter padB2"]
 24h.com.vn##DIV[class="banner-LR"]
 24h.com.vn##DIV[id^="crt-"]

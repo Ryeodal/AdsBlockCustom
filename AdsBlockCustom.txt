@@ -69,7 +69,16 @@
 ||image.24h.com.vn^*banner
 ||batdongsan24h.com.vn/images/banners/
 ||static.24h.com.vn^*-background-
+
+##[id^="div-gpt-ad"]
+*##+js(no-floc)
+24h.com.vn##[id^="ADS"]
+24h.com.vn##DIV[class="banner-LR"]
+24h.com.vn###subRight
+24h.com.vn###maiContent > div > div.colLt > aside
 24h.com.vn###background_bg_link
+@@||www.google.*/search?$generichide
+
 24h.com.vn###bai_lien_quan_kh_1_1
 24h.com.vn###bai_lien_quan_kh_1_2
 24h.com.vn###bai_lien_quan_kh_1_3
@@ -85,9 +94,6 @@
 24h.com.vn##.fixed-top
 24h.com.vn##.fixed-top2
 24h.com.vn##.ttdnTr
-24h.com.vn##[id^="ADS"]
-##[id^="div-gpt-ad"]
-*##+js(no-floc)
 24h.com.vn##DIV[class="aCenter padB2"]
 24h.com.vn##DIV[class="banner-LR"]
 24h.com.vn##DIV[id^="crt-"]

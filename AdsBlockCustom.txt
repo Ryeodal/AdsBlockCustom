@@ -54,6 +54,47 @@
 ||fonts.google.com^$3p,important
 ||adservice.google.com^$3p,important
 
+!-----24H.COM.VN-----
+||adver.24h.com.vn^
+||ad.24h.com.vn^
+||qctt24h.24h.com.vn^
+||quangcao.24h.com.vn^
+||counter.24h.com.vn^
+||rsyslog.24h.com.vn^
+||thongke.24h.com.vn^
+||baogia.24h.com.vn^
+||ketquaxoso.24h.com.vn^
+||tuyendung.24h.com.vn^
+||anh.24h.com.vn/upload/^*.gif
+||image.24h.com.vn^*banner
+||batdongsan24h.com.vn/images/banners/
+||static.24h.com.vn^*-background-
+24h.com.vn###background_bg_link
+24h.com.vn###bai_lien_quan_kh_1_1
+24h.com.vn###bai_lien_quan_kh_1_2
+24h.com.vn###bai_lien_quan_kh_1_3
+24h.com.vn###bai_lien_quan_kh_6_1
+24h.com.vn###bai_lien_quan_kh_6_2
+24h.com.vn###bai_lien_quan_kh_6_3
+24h.com.vn###div_box_bai_viet_cung_su_kien
+24h.com.vn###linkbg1
+24h.com.vn###linkbg2
+24h.com.vn###maiContent > div > div.colLt > aside
+24h.com.vn##.bai_pr_tin_cung_su_kien
+24h.com.vn##.bailienquan-pr1
+24h.com.vn##.fixed-top
+24h.com.vn##.fixed-top2
+24h.com.vn##.ttdnTr
+24h.com.vn##DIV[class="aCenter padB2"]
+24h.com.vn##DIV[class="banner-LR"]
+24h.com.vn##DIV[id^="crt-"]
+24h.com.vn##[id^="bai_pr_"]
+24h.com.vn##article[class="atclRdSbIn xocbg"]
+24h.com.vn##div[class="mrT5"]
+24h.com.vn,eva.vn###subRight
+eva.vn,24h.com.vn##[id^="ADS"]
+@@||imasdk.googleapis.com^$domain=24h.com.vn|danet.vn|pose.com.vn|gamevui.vn|yan.vn|saostar.vn|anime47.com|fptplay.vn|startalk.vn
+@@||trithuc24h.com.vn/upload/20996/20200817/LOGO_TRITHUC24H-02_3e6fff5981.png
 
 
 

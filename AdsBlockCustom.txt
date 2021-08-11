@@ -94,7 +94,7 @@ vietnamnet.vn##.stage1.pos-rel > .d-ib
 @@||www.googletagmanager.com/gtag/js?id=UA-100237675-1
 
 !-----DANTRI.COM.VN-----
-||amp.dantri.com.vn^
+||encrypted.google.com^
 ||logsbin.dantri.com.vn^
 ||admicro.vn^$third-party
 ||2mdn.net^

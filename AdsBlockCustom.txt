@@ -6,6 +6,9 @@
 .vn/ads
 .com/ad
 .com/ads
+/ADS
+/ADS_
+/ADS.
 /ads.
 /ad.
 /ad/zalo

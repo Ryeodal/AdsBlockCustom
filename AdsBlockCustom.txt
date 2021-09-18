@@ -217,6 +217,8 @@ giadinhvietnam.com,tuvannet.de,vietnamnet.vn,nongnghiep.vn##.adv
 /generate_204$image,other,ping,script
 /client_204?$image,other,ping,script
 /quick-adsense-reloaded/*
+##.adsbygoogle
+##iframe[id^="google_ads_frame"]
 
 
 

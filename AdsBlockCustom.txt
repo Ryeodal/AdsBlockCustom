@@ -2,6 +2,7 @@
 !
 !---------------Danh sach chan------------
 /ads
+.com/v
 .vn/ad
 .vn/ads
 .com/ad
@@ -18,12 +19,13 @@
 /*banner
 /banner
 !-----FACEBOOK----
-/business/ads?_rdr
+/referer_frame.$domain=~developers.facebook.com
 ||connect.facebook.net^
 ||alt6-mtalk.google.com^
 ||fr.app.chat.global.xiaomi.net^
 ||mtalk.google.com^
 ||facebook.net^$3p,important
+
 
 
 !-----YOUTUBE-----

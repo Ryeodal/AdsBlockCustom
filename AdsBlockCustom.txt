@@ -17,12 +17,14 @@
 /quangcao.
 /*banner
 /banner
-!-----FACEBOOK-----
+!-----FACEBOOK----
+/business/ads?_rdr
 ||connect.facebook.net^
 ||alt6-mtalk.google.com^
 ||fr.app.chat.global.xiaomi.net^
 ||mtalk.google.com^
 ||facebook.net^$3p,important
+
 
 !-----YOUTUBE-----
 ||youtube.com/youtubei/v1/log_event^$xhr

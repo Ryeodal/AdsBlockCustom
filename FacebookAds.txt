@@ -3,4 +3,5 @@
 !-------------Facebook Ads----------------
 0.0.0.0 fbadsserver.com
 ||fbadsserver.com^
+||facebook.com/audiencenetwork^
 

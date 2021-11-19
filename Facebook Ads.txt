@@ -1,0 +1,6 @@
+! Title: BlockAds HoangKim
+!
+!-----------------------------
+0.0.0.0 fbadsserver.com
+||fbadsserver.com^
+

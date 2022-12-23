@@ -1,6 +1,24 @@
 ! Title: BlockAds HoangKim
 !
 !---------------Danh sach chan------------
+gstatic.com
+.admob.com
+.analytics.localytics.com
+.flurry.com
+.greystripe.com
+inmobi.com
+admax.nexage.com
+ads.mdotm.com
+my.mobfox.com
+.plus1.wapstart.ru
+.madnet.ru
+.mp.mydas.mobi
+millennialmedia.com
+.g.doubleclick.net
+.appsdt.com
+ad.leadboltads.net
+run.admost.com
+mobile.admost.com
 /ads
 .com/v
 .vn/ad

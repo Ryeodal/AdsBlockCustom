@@ -1,4 +1,4 @@
-! Title: BlockAds HoangKim
+! Title: BlockAdsGoogle HoangKim
 !-----Các domain chính của Google Ads & DoubleClick:----
 googleads.g.doubleclick.net
 ad.doubleclick.net

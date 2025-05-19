@@ -1,0 +1,73 @@
+!-----Các domain chính của Google Ads & DoubleClick:----
+googleads.g.doubleclick.net
+ad.doubleclick.net
+cm.g.doubleclick.net
+partner.googleadservices.com
+securepubads.g.doubleclick.net
+tpc.googlesyndication.com
+pagead2.googlesyndication.com
+pagead.l.doubleclick.net
+
+!-----Các domain phân phối quảng cáo và script:-----
+www.googletagservices.com
+www.googletagmanager.com
+www.googleadservices.com
+pagead.googleadservices.com
+static.doubleclick.net
+video-ad-stats.googlesyndication.com
+
+!-----Các domain phân tích hành vi người dùng (tracking):-----
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+www.googletagmanager.com
+!-----Một số domain ở trên như googletagmanager.com hoặc google-analytics.com không trực tiếp hiển thị quảng cáo nhưng hỗ trợ việc phân phối và đo lường quảng cáo. Nếu bạn chặn, có thể ảnh hưởng đến tính năng trên một số website.---
+
+!-----1. Phân phối quảng cáo (Ad serving domains)-----
+ads.google.com
+ads.g.doubleclick.net
+pagead2.googlesyndication.com
+pagead.l.doubleclick.net
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+g.doubleclick.net
+partner.googleadservices.com
+
+!-----2. Quảng cáo trên video (YouTube ads)-----
+googleads.g.doubleclick.net
+youtubeads.google.com
+static.doubleclick.net
+s0.2mdn.net
+pubads.g.doubleclick.net
+
+!-----3. Script/SDK dùng để nhúng quảng cáo và đo lường-----
+www.googletagservices.com
+www.googletagmanager.com
+www.googleadservices.com
+pagead-googlehosted.l.google.com
+adservice.google.com
+adservice.google.com.vn
+adservice.google.de 
+!---(các quốc gia khác nhau)---
+
+!-----4. Quảng cáo trong ứng dụng di động (Google AdMob, Firebase)-----
+admob.com
+app-measurement.com
+firebase-settings.crashlytics.com
+googleads4.g.doubleclick.net
+
+!-----5. Tracking, analytics hỗ trợ quảng cáo-----
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+tagmanager.google.com
+www.googletagmanager.com
+
+!-----6. Tên miền phụ khác dùng để phân phối nội dung quảng cáo-----
+doubleclick.net
+2mdn.net
+googlesyndication.com
+googleservices.com
+googleusercontent.com
+!---(đôi khi dùng để phân phối ảnh/băng thông quảng cáo)---
